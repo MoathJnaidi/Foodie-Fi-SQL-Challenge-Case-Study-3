@@ -444,7 +444,8 @@ upgrades from basic to monthly or pro plans are reduced by the current paid amou
 |19         |2      |pro monthly  |2020-06-29  |19.90 |1            |
 |19         |3      |pro annual   |2020-08-29  |199.00|2            |
 
-
+* Please let me know your recommendations about anything I can improve, or if there are any mistakes in my solutions.
+  
 
 
 
